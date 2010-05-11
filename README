@@ -1,0 +1,15 @@
+<strong> Requirements
+1) Visual Studio (Express should work... No promises, students can get a free copy of Pro from http://dreamspark.com )
+2) XNA Gamestudio 3.x from http://creators.xna.com
+3) XBOX 360 users only. Xna creators club memership (again, students can get this for free from http://dreamspark.com )
+
+<strong>Getting started</strong>
+This is more of a developer release, so you will need to download and build it yourself. This is a pretty straightforward process though.
+
+1) Download and install XNA Gamestudio from http://creators.xna.com/ . The game was built using XNA 3.x and may not be compatible with the new CTP.
+2) Open the solution in Visual Studio and run
+3)  If you want to play on xbox and have a creators club membership, deploy like any other game. http://msdn.microsoft.com/en-us/library/bb203929.aspx
+
+
+<strong> Contributing </strong>
+If you would like to see something cool added, be sure to fork and send me a pull request!
